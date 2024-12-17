@@ -68,6 +68,7 @@ session_start();
         <p><a href="index.php" class="btn btn-primary mt-3 mb-3">Return to Home Page</a></p>
     </div>
     <?php include_once 'footer.php' ?>
+
 </body>
 
 </html>
